@@ -16,7 +16,7 @@ export class AppComponent implements OnInit {
       title: 'Home',
       url: '/folder/Home',
       icon: 'home'
-    }, 
+    },
     {
       title: 'Inbox',
       url: '/folder/Inbox',
