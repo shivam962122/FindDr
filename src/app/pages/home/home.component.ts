@@ -9,7 +9,7 @@ export class HomeComponent implements OnInit {
 
   constructor() { }
   slideOpts = {
-    initialSlide: 1,
+    initialSlide: 0,
     autoplay: {
     speed: 3000
     }
