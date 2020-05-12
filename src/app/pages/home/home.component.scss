@@ -1,0 +1,35 @@
+
+.tileBox{
+    background-color: #fff;
+    box-shadow: 0 2px 18px 0 rgba(182,178,178,.5);
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    // border-radius: 0.5rem;
+    .tileImg{
+        height: 2.5rem;
+        margin: auto;
+        display: block;
+    }
+    .capText{
+        text-align: center;
+    }
+  }
+  .dt{
+    background-color: gainsboro !important;
+  }
+  .sliderBox{
+    box-shadow: 0 2px 18px 0 rgba(182,178,178,.5);
+    max-height: 12rem;
+    .sliderImg{
+        height: 11rem;
+        padding: 1rem;
+    }
+  }
+  
+  // .cartIcons{
+  //   position: absolute;
+  //     float: left;
+  //     left: 0;
+  //     top: 0px;
+  //     right: 50px;
+  // }

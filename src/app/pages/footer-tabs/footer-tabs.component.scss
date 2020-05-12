@@ -1,0 +1,13 @@
+// footer Tab Box
+.tabBox{
+    text-align: center;
+    .tabIcon{
+    margin: auto;
+    display: block;
+    text-align: center;
+    padding: 0.5rem;
+    }
+}
+.border:not(:last-child){
+    border-right: 1px solid gainsboro;
+}
